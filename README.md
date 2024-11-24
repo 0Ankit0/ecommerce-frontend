@@ -1,4 +1,4 @@
-A simple ecommerce site with mock data.
+A simple ecommerce site with mock data made using nextjs and shadcn/ui.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
